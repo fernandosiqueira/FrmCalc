@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmCalc", "FrmCalc\FrmCalc.csproj", "{50363969-3FA1-4B51-ADBD-095C6E49B4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50363969-3FA1-4B51-ADBD-095C6E49B4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50363969-3FA1-4B51-ADBD-095C6E49B4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50363969-3FA1-4B51-ADBD-095C6E49B4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50363969-3FA1-4B51-ADBD-095C6E49B4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D5DC87-9308-491F-A0B2-C86E4084186F}
+	EndGlobalSection
+EndGlobal
